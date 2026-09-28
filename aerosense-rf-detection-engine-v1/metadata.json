@@ -1,0 +1,6 @@
+{
+  "name": "AeroSense RF Detection Engine v1",
+  "description": "Interactive Digital Signal Processing (DSP) and Machine Learning RF detection dashboard with real-time spectrum analysis, CFAR thresholding, drone classification, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
